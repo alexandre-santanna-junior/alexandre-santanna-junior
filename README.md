@@ -8,7 +8,7 @@
   </a>
 </div>
 
-- ❤ Estudante de Administração pública
+- ❤ Estudante de Analise e Desenvolvimento de Sistemas
 - 💻 Desenvolvedor Front-end
 - 🧠 Estudando atualmente:
 
